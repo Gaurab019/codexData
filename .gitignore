@@ -1,0 +1,4 @@
+# dont add env files
+
+.env
+node_modules
